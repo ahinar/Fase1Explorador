@@ -257,7 +257,7 @@ figure .icono2{
   justify-content: center;
   align-items: center;
   gap: 16px;
-  max-width: 1400px;
+  /*max-width: 1400px;*/
   margin: 10px;
   padding: 20px;
 }
